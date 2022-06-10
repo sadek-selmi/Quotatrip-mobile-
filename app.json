@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Quota",
+    "slug": "Quota",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://www.quotatrip.com/assets/cimages/logo_qt_1000.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://www.quotatrip.com/assets/cimages/logo_qt_1000.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
